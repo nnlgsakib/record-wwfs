@@ -1,5 +1,5 @@
 syntax = "proto3";
-package record.pb;
+package wwfs.record.pb;
 
 option go_package = "github.com/nnlgsakib/record-wwfs/pb";
 
