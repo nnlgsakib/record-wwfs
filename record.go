@@ -1,7 +1,7 @@
 package record
 
 import (
-	"github.com/libp2p/go-libp2p-record/pb"
+	"github.com/nnlgsakib/record-wwfs/pb"
 )
 
 // MakePutRecord creates a dht record for the given key/value pair
